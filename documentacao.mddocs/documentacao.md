@@ -1,4 +1,5 @@
 📄 Documentação do Projeto
+
 📌 1. Objetivo do Projeto
 Este projeto tem como objetivo refatorar e organizar um código legado, aplicando boas práticas de programação e os princípios SOLID para garantir modularidade, extensibilidade e facilidade de manutenção.
 
