@@ -1,0 +1,4 @@
+pytest
+pyreverse
+coverage
+ruff
